@@ -138,11 +138,3 @@ Contact Added Successfully!
 ## 👩‍💻 Author
 
 **Ekta Sahtia**
-
-GitHub: https://github.com/your-username
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
