@@ -3,7 +3,7 @@
 
 A simple **Contact List Management System** built using **Java**. This is a beginner-friendly console application that allows users to manage contacts through a menu-driven interface.
 
-## 🚀 Features
+## Features
 
 - ➕ Add a new contact
 - 📋 View all contacts
