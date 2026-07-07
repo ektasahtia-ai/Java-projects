@@ -1,5 +1,5 @@
 # Java-projects
-# 1.Contact List Management System
+# 1. Contact List Management System
 
 A simple **Contact List Management System** built using **Java**. This is a beginner-friendly console application that allows users to manage contacts through a menu-driven interface.
 
