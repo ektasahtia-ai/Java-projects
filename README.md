@@ -6,7 +6,7 @@ A simple **Contact List Management System** built using **Java**. This is a begi
 ## Features
 
 - ➕ Add a new contact
-- 📋 View all contacts
+- 📋 View all the contacts
 - 🔍 Search for a contact by name
 - ✏️ Update contact details
 - ❌ Delete a contact
