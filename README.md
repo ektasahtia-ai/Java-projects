@@ -17,7 +17,7 @@ A simple **Contact List Management System** built using **Java**. This is a begi
 ## 🛠️ Technologies Used
 
 - Java
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming 
 - ArrayList
 - Scanner Class
 
